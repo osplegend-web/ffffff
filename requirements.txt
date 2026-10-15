@@ -1,0 +1,9 @@
+# FF Gaming Assistant Panel Dependencies
+# This project primarily uses Python's standard library.
+# These are optional enhancements if you want to expand the app later.
+
+# For better system monitoring (optional)
+# psutil==5.9.0
+
+# For Windows-specific registry access (optional, though we use subprocess for now)
+# pywin32==306
